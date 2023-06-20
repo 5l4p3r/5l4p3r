@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @5l4p3r
-- 👀 I’m interested in Javascript Programming
+- 👀 I’m interested in Javascript or TypeScript Programming
 - 🌱 I’m currently learning React JS
 
 <!---
